@@ -76,21 +76,3 @@ Nilai `total_sales` dihitung berdasarkan harga produk dan quantity transaksi.
 
 Rekomendasi tersebut merupakan usulan strategi bisnis berdasarkan hasil analisis, sehingga efektivitasnya perlu dievaluasi setelah diterapkan.
 
-## 8. Struktur Repository
-
-- `data/` — data sumber yang diizinkan untuk dibagikan.
-- `query/` — query SQL untuk membentuk tabel analitis.
-- `dashboard/` — gambar pratinjau dashboard.
-- `presentasi/` — file presentasi PowerPoint.
-- `erd/` — diagram relasi tabel, jika tersedia.
-- `README.md` — dokumentasi proyek.
-
-## 9. Kompetensi yang Ditunjukkan
-
-- SQL dan BigQuery
-- Relasi Database dan SQL JOIN
-- Data Preparation dan Data Aggregation
-- Dashboard Development dengan Looker Studio
-- Data Visualization
-- Business Insight dan Business Recommendation
-- Data Storytelling dan Presentasi Analitis
